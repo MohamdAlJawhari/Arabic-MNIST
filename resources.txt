@@ -1,5 +1,0 @@
-Dataset: https://github.com/ahmedsaeedsaid/OCR-Arabic
-https://www.youtube.com/watch?v=xWWPRobFLEQ
-
-train: python -m src.train
-run: python -m src.app
