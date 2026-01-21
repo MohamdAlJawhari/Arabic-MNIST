@@ -4,6 +4,11 @@ Arabic letter classification with a MobileNetV3-Small model, trained on an
 ImageFolder-style dataset and served through a Gradio demo that also visualizes
 intermediate feature maps.
 
+## Objective
+
+Build and serve a compact Arabic letter classifier, trained on the OCR-Arabic
+dataset from https://github.com/ahmedsaeedsaid/OCR-Arabic/tree/master/dataset.
+
 ## What is in src/
 
 - `src/config.py`: Training configuration (paths, image size, padding, epochs, lr).
