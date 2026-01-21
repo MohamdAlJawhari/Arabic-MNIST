@@ -5,7 +5,7 @@ from pathlib import Path
 class Config:
     project_root: Path = Path(__file__).resolve().parents[1]
     data_dir: Path = project_root / "dataset"
-    runs_dir: Path = project_root / "runs"
+    runs_dir: Path = project_root / "models"
 
     img_size: int = 128          # MobileNet likes bigger than 64; 128 is a good start
     padding: int = 12            # empty frame

@@ -5,7 +5,7 @@ import torch
 from .infer import load_checkpoint, predict, preprocess_any_image
 from .viz import feature_maps_to_grid
 
-CKPT_PATH = "runs/mobilenet_arabic_letters.pt"
+CKPT_PATH = "models/mobilenet_arabic_letters.pt"
 
 model, class_names, val_tf, device = load_checkpoint(CKPT_PATH)
 
