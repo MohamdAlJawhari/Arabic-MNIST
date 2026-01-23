@@ -12,7 +12,7 @@ You can watch the demo directly from this repository:
 
 Or on YouTube:
 
-[📺 Watch on YouTube](https://youtu.be/q7U2XbBlIvs)
+[![Watch the demo](https://img.youtube.com/vi/q7U2XbBlIvs/0.jpg)](demo/Arabic-MNIST.mp4)
 
 ## Objective
 
