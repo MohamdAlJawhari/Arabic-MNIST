@@ -8,11 +8,14 @@ intermediate feature maps.
 
 You can watch the demo directly from this repository:
 
+[![Watch the demo](https://img.youtube.com/vi/q7U2XbBlIvs/0.jpg)](demo/Arabic-MNIST.mp4)
+
 [▶️ Arabic-MNIST Demo](demo/Arabic-MNIST.mp4)
 
 Or on YouTube:
 
-[![Watch the demo](https://img.youtube.com/vi/q7U2XbBlIvs/0.jpg)](demo/Arabic-MNIST.mp4)
+[📺 Watch on YouTube](https://youtu.be/q7U2XbBlIvs)
+
 
 ## Objective
 
