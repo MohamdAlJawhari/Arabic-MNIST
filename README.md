@@ -4,6 +4,16 @@ Arabic letter classification with a MobileNetV3-Small model, trained on an
 ImageFolder-style dataset and served through a Gradio demo that also visualizes
 intermediate feature maps.
 
+## 🎥 Demo
+
+You can watch the demo directly from this repository:
+
+[▶️ Arabic-MNIST Demo](demo/Arabic-MNIST.mp4)
+
+Or on YouTube:
+
+[📺 Watch on YouTube](https://youtu.be/q7U2XbBlIvs)
+
 ## Objective
 
 Build and serve a compact Arabic letter classifier, trained on the OCR-Arabic
